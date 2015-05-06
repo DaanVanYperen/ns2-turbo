@@ -1,6 +1,6 @@
 name        = "NS2: Turbo"
-source_dir  = "source/"
-output_dir  = "output/"
+source_dir  = "source"
+output_dir  = "output"
 description = [=[]=]
 image       = "preview.jpg"
 build = "274"

@@ -1,0 +1,9 @@
+<game>
+        <name>NS2Turbo</name>
+        <description>NS2: Turbo</description>
+		<icon>icons/ns2_64x64.png</icon>
+		<client>lua/Client.lua</client>
+		<server>lua/Server.lua</server>
+		<loading>lua/Loading.lua</loading>
+		<soundinfo>sound/NS2.soundinfo</soundinfo>
+</game>
