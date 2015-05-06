@@ -1,0 +1,7 @@
+modEntry = [[
+    Client: lua/turbo/turbo_Client.lua,
+    Server: lua/turbo/turbo_Server.lua,
+    Predict: lua/turbo/turbo_Predict.lua,
+    Shared: lua/turbo/turbo_Shared.lua,
+    Priority: 3
+]]
