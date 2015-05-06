@@ -165,7 +165,7 @@ function Rifle:OnDestroy()
     
 end
 
-local kAimAssistBulletSize = 0.3
+local kAimAssistBulletSize = 0.15
 function Rifle:GetBulletSize()
     return kAimAssistBulletSize
 end

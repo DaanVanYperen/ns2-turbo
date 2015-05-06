@@ -48,7 +48,7 @@ function Pistol:OnCreate()
 
 end
 
-local kAimAssistBulletSize = 0.3
+local kAimAssistBulletSize = 0.15
 function Pistol:GetBulletSize()
     return kAimAssistBulletSize
 end
