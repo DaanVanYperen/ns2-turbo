@@ -165,6 +165,11 @@ function Rifle:OnDestroy()
     
 end
 
+local kAimAssistBulletSize = 0.3
+function Rifle:GetBulletSize()
+    return kAimAssistBulletSize
+end
+    
 if Client then
 
     function Rifle:OnInitialized()

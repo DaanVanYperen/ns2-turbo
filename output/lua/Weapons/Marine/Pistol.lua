@@ -48,6 +48,12 @@ function Pistol:OnCreate()
 
 end
 
+local kAimAssistBulletSize = 0.3
+function Pistol:GetBulletSize()
+    return kAimAssistBulletSize
+end
+
+
 if Client then
 
     function Pistol:GetBarrelPoint()

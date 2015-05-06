@@ -1,7 +1,7 @@
 name        = "NS2: Turbo"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[]=]
+description = [=[MeatMachine WIP.]=]
 image       = "preview.jpg"
 build = "274"
 publish_id = "1a214160"
