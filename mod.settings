@@ -1,7 +1,7 @@
-name        = "NS2: Turbo"
+name        = "NS2: Turbo [ALPHA]"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[MeatMachine WIP.]=]
+description = [=[MeatMachine's monster, WIP.]=]
 image       = "preview.jpg"
 build = "274"
 publish_id = "1a214160"
