@@ -108,7 +108,7 @@ function BiteLeap:GetMeleeBase()
     end
     --]]
     
-    return 0.7, 1
+    return 1.1, 1
 end
 
 function BiteLeap:GetMeleeOffset()
